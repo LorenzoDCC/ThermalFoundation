@@ -1,0 +1,153 @@
+#pt_BR
+
+death.attack.blizz=%1$s se deparou com um destino frígido!
+death.attack.cryotheum=%1$s congelou até a morte!
+death.attack.cryotheum.player=%1$s congelou até a morte tentando escapar de %2$s!
+death.attack.flux=%1$s teve sua realidade despedaçada pelo Flux!
+death.attack.flux.player=%1$s levou Flux até a morte por %2$s!
+death.attack.pyrotheum=%1$s achou que Pyrotheum era água!
+death.attack.pyrotheum.player=%1$s queimou vivo tentando fugir de %2$s!
+death.attack.mana=%1$s foi despedaçado por Mana pura!
+death.attack.mana.player=%1$s entrou em outro estado de existência tentando escapar de %2$s!
+
+entity.Blizz.name=Blizz
+
+fluid.redstone=Redstone Desestabilizada
+fluid.glowstone=Pedra Luminosa Energizada
+fluid.ender=Ender Ressoante
+fluid.pyrotheum=Pyrotheum Ardente
+fluid.cryotheum=Cryotheum Gélido
+fluid.mana=Mana Primordial
+fluid.steam=Vapor
+fluid.coal=Carvão Liquefeito
+
+item.thermalfoundation.bucket.bucketRedstone.name=Balde de Redstone Desestabilizada
+item.thermalfoundation.bucket.bucketGlowstone.name=Balde de Pedra Luminosa Energizada
+item.thermalfoundation.bucket.bucketEnder.name=Balde de Ender Ressoante
+item.thermalfoundation.bucket.bucketPyrotheum.name=Balde de Pyrotheum Ardente
+item.thermalfoundation.bucket.bucketCryotheum.name=Balde de Cryotheum Gélido
+item.thermalfoundation.bucket.bucketMana.name=Balde de Mana Primordial
+item.thermalfoundation.bucket.bucketCoal.name=Carvão Liquefeito
+
+info.thermalfoundation.tome.lexicon.1=Converts items to equivalent forms.
+info.thermalfoundation.tome.lexicon.2=Right click (open) to study.
+info.thermalfoundation.tome.lexicon.3=to gain wisdom!
+info.thermalfoundation.tome.lexicon.4=Right click (open) to transmute items.
+info.thermalfoundation.tome.lexicon.5=to forsake knowledge.
+item.thermalfoundation.tome.lexicon.name=Forge Lexicon
+item.thermalfoundation.tome.lexiconEmpowered.name=Forge Lexicon (Empowered)
+
+item.thermalfoundation.material.dustIron.name=Ferro Pulverizado
+item.thermalfoundation.material.dustGold.name=Ouro Pulverizado
+item.thermalfoundation.material.dustCoal.name=Carvão Pulverizado
+item.thermalfoundation.material.dustCharcoal.name=Carvão Vegetal Pulverizado
+item.thermalfoundation.material.dustObsidian.name=Obsidiana Pulverizada
+
+item.thermalfoundation.material.nuggetIron.name=Pepita de Ferro
+item.thermalfoundation.material.gearIron.name=Engrenagem de Ferro
+item.thermalfoundation.material.gearGold.name=Engrenagem de Ouro
+
+item.thermalfoundation.material.dustSulfur.name=Enxofre
+item.thermalfoundation.material.dustNiter.name=Salitre
+
+item.thermalfoundation.material.crystalCinnabar.name=Cinábrio
+
+item.thermalfoundation.material.dustCopper.name=Cobre Pulverizado
+item.thermalfoundation.material.dustTin.name=Estanho Pulverizado
+item.thermalfoundation.material.dustSilver.name=Prata Pulveriada
+item.thermalfoundation.material.dustLead.name=Chumbo Pulverizado
+item.thermalfoundation.material.dustNickel.name=Metal Ferroso Pulveriazado
+item.thermalfoundation.material.dustPlatinum.name=Metal Brilhante Pulverizado
+item.thermalfoundation.material.dustMithril.name=Metal Infundido em Mana Pulverizado
+
+item.thermalfoundation.material.dustElectrum.name=Mistura de Electrum
+item.thermalfoundation.material.dustInvar.name=Mistura de Invar
+item.thermalfoundation.material.dustBronze.name=Mistura de Liga do Funileiro
+item.thermalfoundation.material.dustSignalum.name=Mistura de Signalum
+item.thermalfoundation.material.dustLumium.name=Mistura de Lumium
+item.thermalfoundation.material.dustEnderium.name=Mistura de Enderium
+
+item.thermalfoundation.material.ingotCopper.name=Barra de Cobre
+item.thermalfoundation.material.ingotTin.name=Barra de Estanho
+item.thermalfoundation.material.ingotSilver.name=Barra de Prata
+item.thermalfoundation.material.ingotLead.name=Barra de Chumbo
+item.thermalfoundation.material.ingotNickel.name=Barra Ferrosa
+item.thermalfoundation.material.ingotPlatinum.name=Barra Brilhante
+item.thermalfoundation.material.ingotMithril.name=Barra Infundida em Mana
+item.thermalfoundation.material.ingotElectrum.name=Barra de Electrum
+item.thermalfoundation.material.ingotInvar.name=Barra de Invar
+item.thermalfoundation.material.ingotBronze.name=Barra de Liga do Funileiro
+item.thermalfoundation.material.ingotSignalum.name=Barra de Signalum
+item.thermalfoundation.material.ingotLumium.name=Barra de Lumium
+item.thermalfoundation.material.ingotEnderium.name=Barra de Enderium
+
+item.thermalfoundation.material.nuggetCopper.name=Pepita de Cobre
+item.thermalfoundation.material.nuggetTin.name=Pepita de Estanho
+item.thermalfoundation.material.nuggetSilver.name=Pepita de Prata
+item.thermalfoundation.material.nuggetLead.name=Pepita de Chumbo
+item.thermalfoundation.material.nuggetNickel.name=Pepita Ferrosa
+item.thermalfoundation.material.nuggetPlatinum.name=Pepita Brilhante
+item.thermalfoundation.material.nuggetMithril.name=Pepita Infundida em Mana
+item.thermalfoundation.material.nuggetElectrum.name=Pepita de Electrum
+item.thermalfoundation.material.nuggetInvar.name=Pepita de Invar
+item.thermalfoundation.material.nuggetBronze.name=Pepita de Liga do Funileiro
+item.thermalfoundation.material.nuggetSignalum.name=Pepita de Signalum
+item.thermalfoundation.material.nuggetLumium.name=Pepita de Lumium
+item.thermalfoundation.material.nuggetEnderium.name=Pepita de Enderium
+
+item.thermalfoundation.material.dustPyrotheum.name=Pó de Pyrotheum
+item.thermalfoundation.material.dustCryotheum.name=Pó de Cryotheum
+item.thermalfoundation.material.dustMana.name=Pó de Mana
+
+item.thermalfoundation.material.gearCopper.name=Engrenagem de
+item.thermalfoundation.material.gearTin.name=Estanho Gear
+item.thermalfoundation.material.gearSilver.name=Prata Gear
+item.thermalfoundation.material.gearLead.name=Chumbo Gear
+item.thermalfoundation.material.gearNickel.name=Ferrosa Gear
+item.thermalfoundation.material.gearPlatinum.name=Shiny Gear
+item.thermalfoundation.material.gearMithril.name=Mana Infused Gear
+item.thermalfoundation.material.gearElectrum.name=Electrum Gear
+item.thermalfoundation.material.gearInvar.name=Invar Gear
+item.thermalfoundation.material.gearBronze.name=Tinker's Alloy Gear
+item.thermalfoundation.material.gearSignalum.name=Signalum Gear
+item.thermalfoundation.material.gearLumium.name=Lumium Gear
+item.thermalfoundation.material.gearEnderium.name=Enderium Gear
+
+item.thermalfoundation.material.rodBlizz.name=Vara de Blizz
+item.thermalfoundation.material.dustBlizz.name=Pó de Blizz
+
+itemGroup.thermalfoundation.creativeTab=Thermal Foundation
+
+tab.thermalfoundation.lexicon.study=Consult the knowledge of the world and alter your personal destiny.
+tab.thermalfoundation.lexicon.convert=Convert equivalent items according to an arcane set of rules laid down by higher powers.
+
+tile.thermalfoundation.fluid.redstone.name=Destabilized Redstone
+tile.thermalfoundation.fluid.glowstone.name=Energized Glowstone
+tile.thermalfoundation.fluid.ender.name=Resonant Ender
+tile.thermalfoundation.fluid.pyrotheum.name=Blazing Pyrotheum
+tile.thermalfoundation.fluid.cryotheum.name=Gelid Cryotheum
+tile.thermalfoundation.fluid.mana.name=Primal Mana
+tile.thermalfoundation.fluid.steam.name=Steam
+tile.thermalfoundation.fluid.coal.name=Liquifacted Coal
+
+tile.thermalfoundation.ore.copper.name=Cobre Ore
+tile.thermalfoundation.ore.tin.name=Estanho Ore
+tile.thermalfoundation.ore.silver.name=Prata Ore
+tile.thermalfoundation.ore.lead.name=Chumbo Ore
+tile.thermalfoundation.ore.nickel.name=Ferroso Ore
+tile.thermalfoundation.ore.platinum.name=Shiny Ore
+tile.thermalfoundation.ore.mithril.name=Mana Infused Ore
+
+tile.thermalfoundation.storage.copper.name=Cobre Block
+tile.thermalfoundation.storage.tin.name=Estanho Block
+tile.thermalfoundation.storage.silver.name=Prata Block
+tile.thermalfoundation.storage.lead.name=Chumbo Block
+tile.thermalfoundation.storage.nickel.name=Ferroso Block
+tile.thermalfoundation.storage.platinum.name=Shiny Block
+tile.thermalfoundation.storage.mithril.name=Mana Infused Block
+tile.thermalfoundation.storage.electrum.name=Electrum Block
+tile.thermalfoundation.storage.invar.name=Invar Block
+tile.thermalfoundation.storage.bronze.name=Tinker's Alloy Block
+tile.thermalfoundation.storage.signalum.name=Signalum Block
+tile.thermalfoundation.storage.lumium.name=Lumium Block
+tile.thermalfoundation.storage.enderium.name=Enderium Block
